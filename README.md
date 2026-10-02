@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Minimalist Silver & Dark Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=YOUR+NAME;1st+Year+CSE+Undergraduate;Building+Core+Fundamentals+in+C" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=JAYED;1st+Year+CSE+Undergraduate;Building+Core+Fundamentals+in+C" alt="Header Banner" />
 
   <br/><br/>
 
   <!-- Clean Metallic Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Language-C-161B22?style=for-the-badge&logo=c&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Language--161B22?style=for-the-badge&logo=c&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/Degree-1st%20Year%20CSE-E6E6E6?style=for-the-badge&labelColor=161B22&color=FFFFFF" />
     <img src="https://img.shields.io/badge/Rank-New%20Solver-FFFFFF?style=for-the-badge&labelColor=0D1117&color=6E7681" />
   </p>
@@ -20,6 +20,7 @@
 
 ---
 ###  ABOUT ME
+```c
 
 #include <stdio.h>
 
@@ -28,7 +29,7 @@ int main() {
         .year     = "1st Year CSE",
         .language = "C Programming",
         .mindset  = "Continuous Skill Development",
-        - 🎮 Gamer by heart, coder by choice
+        . passion = "Gamer by heart, coder by choice",
       
     };
 
