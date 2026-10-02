@@ -30,24 +30,18 @@ int main() {
         .language = "C Programming",
         .mindset  = "Continuous Skill Development",
         . passion = "Gamer by heart, coder by choice",
-      
     };
-
     printf("Focusing on low-level computing and core system architecture.\n");
     return 0;
 }
-
-
+```
 
 ## 🎮 Tech Loadout
 <p>
   <img src="https://skillicons.dev/icons?i=c&theme=light" alt="skills" />
   <img src="https://img.shields.io/badge/%2B-locked_slot-E5E7EB?style=for-the-badge&labelColor=F7F8F9&color=C0C5CC" alt="locked slot" />
 </p>
-Current Standing: 1st Year Computer Science & Engineering undergraduate  
-⚡ Primary Focus: Mastering low-level fundamentals, memory management, and pointers in C  
-Approach: Eager to explore new domains and continuously expand technical skill sets  
-🎯 Current Objective: Building strong problem-solving skills and algorithmic logic
+
 
 ## 📊 Player Stats
 <p align="center">
