@@ -1,0 +1,5 @@
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="200" fill="#F7F8F9"/>
+  <text x="500" y="105" font-family="'Fira Code', monospace" font-size="30" font-weight="700" fill="#24292f" text-anchor="middle">JAYED | PLAYER 1 | CSE    | LEVEL 1</text>
+  <text x="500" y="135" font-family="'Fira Code', monospace" font-size="13" fill="#8FA3B8" text-anchor="middle">proudly learning C every day... // next unlock: C++</text>
+</svg>
