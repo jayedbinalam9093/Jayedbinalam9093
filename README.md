@@ -20,21 +20,12 @@
 
 ---
 ###  ABOUT ME
-```c
 
-#include <stdio.h>
-
-int main() {
-    struct Developer me = {
         .year     = "1st Year CSE",
         .language = "C Programming",
         .mindset  = "Continuous Skill Development",
         . passion = "Gamer by heart, coder by choice",
-    };
-    printf("Focusing on low-level computing and core system architecture.\n");
-    return 0;
-}
-```
+    
 
 ## 🎮 Tech Loadout
 <p>
